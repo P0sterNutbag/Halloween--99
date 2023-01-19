@@ -1,0 +1,9 @@
+candy_amount = 1;
+space = 10;
+width = 65;
+xoffset = 90//abs(obj_camera.xoffset);
+yoffset = 64//abs(obj_camera.yoffset);
+text_xoffset = 7;
+text_yoffset = 3;
+arrow_xoffset = 3;
+ypos = 0;
